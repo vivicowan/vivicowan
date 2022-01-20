@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=208527&size=30&lines=Hey+there%2C+I'm+Vivi+%F0%9F%A4%9F)](https://git.io/typing-svg)
+<hr />
+<h2>Hire me Elon Musk...</h2>
+- 🌱 I’m currently learning **MERN**
 
-<!--
-**vivicowan/vivicowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔱 Visit my Portfolio [https://vivicowan.github.io/updated-portfolio/](https://vivicowan.github.io/updated-portfolio/)
 
-Here are some ideas to get you started:
+- 💬 Ask me about **codewars**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **vivicowan0@gmail.com**
+
+- ⚡ Fun fact **I am related to William Wallace, better known as BraveHeart.**
+
+<hr />
