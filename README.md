@@ -2,7 +2,7 @@
 <hr />
 <h2>Hire me Elon Musk...</h2>
 
-- 🔭 I’m currently working on **a BSSE in Software Engineering**
+- 🔭 I’m currently working on **a BS in Software Engineering**
 
 - 🌱 I’m currently learning **C/C++**
 
