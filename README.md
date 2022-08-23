@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a BS in Software Engineering**
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **JAVA and C++**
 
 - 🔱 Visit my Portfolio [https://vivicowan.github.io/updated-portfolio/](https://vivicowan.github.io/updated-portfolio/)
 
